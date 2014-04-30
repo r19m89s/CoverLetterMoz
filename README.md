@@ -4,7 +4,7 @@
 
 To Whom It May Concern:
 
-The manner in which Mozilla views software is very much in-line with my personal beliefs about how software should be organized and treated. When I read the manifesto linked to on your main website, I felt relieved that there was an organization that viewed the intersection between tech and the world in such a refreshing and honest way. 
+The manner in which Mozilla views software is very much in-line with my personal beliefs about how software should be organized and treated. When I read the manifesto that was shared on your main website, I felt relieved that there was an organization that viewed the intersection between tech and the outside community in such a refreshing way. 
 
 My love for technology began in high school, grew through college, and grows even now. We had computer science classes in my high school, in which I learned Java, BASIC, and C. In my senior year, I built a computer using entirely open source software and recycled parts in my hardware class. During college, I programmed in C++ and C for about 5 years, even building a compiler and a web page as part of my senior year projects. After college, I worked as a developer for several different coporations (X2CRM, Urbics, On-Site and TubeMogul), but never really felt like I had found my niche. 
 
